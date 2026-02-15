@@ -41,3 +41,5 @@ geoip:
 ```
 
 Полный список доступных категорий — в [README репозитория](https://github.com/runetfreedom/russia-v2ray-rules-dat).
+
+Для удобного просмотра категорий в geosite и geoip можно использовать [GeoFiles Viewer](https://geofilesviewer.vpnvezdehod.com/).
