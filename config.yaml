@@ -1,0 +1,14 @@
+# Директория для сохранения .srs файлов
+output_dir: "./output"
+
+# Категории из geosite.dat для конвертации в SRS
+geosite:
+  - google-gemini
+  - openai
+  - ru-blocked
+  - telegram
+
+# Категории из geoip.dat для конвертации в SRS
+geoip:
+  - ru-blocked
+  - telegram
