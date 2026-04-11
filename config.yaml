@@ -3,6 +3,7 @@ output_dir: "./output"
 
 # Категории из geosite.dat для конвертации в SRS
 geosite:
+  - youtube
   - google-gemini
   - openai
   - ru-blocked
