@@ -8,6 +8,7 @@ geosite:
   - openai
   - ru-blocked
   - telegram
+  - instagram
 
 # Категории из geoip.dat для конвертации в SRS
 geoip:
