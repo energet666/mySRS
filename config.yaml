@@ -6,6 +6,7 @@ geosite:
   - youtube
   - google-gemini
   - openai
+  - anthropic
   - ru-blocked
   - telegram
   - instagram
